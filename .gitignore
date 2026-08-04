@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Private configuration
+.env
+.streamlit/secrets.toml
+
+# Claude local files
+.claude/
+
+# Unnecessary documentation
+Code (HMM).docx
+
+# Windows and macOS files
+Thumbs.db
+.DS_Store
+# VS Code local settings
+.vscode/
+
+# Logs and temporary files
+*.log
+.ipynb_checkpoints/
