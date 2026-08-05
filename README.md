@@ -101,3 +101,16 @@ http://localhost:8501
 - Historical backtest performance does not guarantee future results.
 - Transaction costs and leveraged losses are modeled using simplified assumptions.
 - The application should not be used to make real-money trading decisions without additional out-of-sample validation and risk testing.
+## Project Origin and Attribution
+
+This is a tutorial-guided, AI-assisted educational project based on
+["How To Actually Use Claude Code for Trading Strategies"](https://www.youtube.com/watch?v=EUSXhJNwRqI)
+by [AI Pathways].
+
+I followed the demonstrated workflow and used Claude Code to generate and
+refine the implementation. My work included configuring and running the
+application, testing the pipeline, investigating errors, organizing the
+repository, documenting the methodology, and publishing the project.
+
+This project is not presented as an independently conceived trading strategy
+or as financial advice. It is intended for education and experimentation.
